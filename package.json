@@ -1,0 +1,22 @@
+{
+  "name": "@colorconverters/rgb-hex-converter",
+  "version": "1.0.0",
+  "description": "Convert rgb to hex and hex to rgb",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminmarcu3/rgb-hex-converter.git"
+  },
+  "type": "module",
+  "keywords": [
+    "hex",
+    "rgb",
+    "converter"
+  ],
+  "author": "Marcu Cosmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosminmarcu3/rgb-hex-converter/issues"
+  },
+  "homepage": "https://github.com/cosminmarcu3/rgb-hex-converter#readme"
+}
